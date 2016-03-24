@@ -16,6 +16,8 @@ Damit das PA-Mimex-Portlet weiß, was es tun soll, benötigt es Steuerungsfelder
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0156.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0158.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0159.md" %}
+ 
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0161.md" %} 
 
 ## Quelle
 https://github.com/PolitAktiv/politaktiv-requirements/tree/master/de/domain/Feature007Massenimport/MassenimportDomainRequirements.md
