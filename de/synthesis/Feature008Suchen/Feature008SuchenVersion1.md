@@ -5,8 +5,8 @@ Zunächst wird nur die Funktionalität nach der ersten Entwicklungsstufe beschri
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0136.md" %}
 
 ## Einrichten (erste Entwicklungsstufe)
-{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0139.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0130.md" %}
+{% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0139.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0131.md" %}
 
 ## Benutzung:
