@@ -5,10 +5,12 @@ Generelle Anmerkung mje:
 * Validierung fehlt als Thema noch - wo werden die Daten validiert - und wie sehr sollen sie validiert werden?
 * Muss der Import / Export per Portlet realisiert sein? Währe nicht eine einfache REST Schnittstelle mit einem kleinen Komandozeilen Tool viel billiger?
 
+
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0150.md" %}
 
 Anmerkung mje:
 * Wir haben 4 Files - wie benennen wir die denn?
+
 
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0151.md" %}
 
@@ -37,6 +39,7 @@ Damit das PA-Mimex-Portlet weiß, was es tun soll, benötigt es Steuerungsfelder
 Anmerkung mje:
 * Ein eigener, definierter Ordner ist für Import / Export sicher nützlich ...
 
+
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0157.md" %}
 
 ### Felder in den Files
@@ -46,10 +49,12 @@ Anmerkung mje:
 Anmerkung mje:
 * Ich fürchte das mit der Adition tut so nicht -1 + 1 = 0 ?. Warum nicht einfach für jede Steuerfunktion eine eigene Spalte mit (0|1) od (leer|x)?
  
+
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0158.md" %}
 
 Anmerkung mje:
 * Ist Security hier relevant (XSS) ?
+
 
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0159.md" %}
 {% include "git+https://github.com/PolitAktiv/politaktiv-requirements.git/de/requirements/req0161.md" %} 
