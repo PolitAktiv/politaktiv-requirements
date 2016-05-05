@@ -1,5 +1,5 @@
 {
-    "gitbook": ">=2.5.0",
+    "gitbook": ">=2.6.1",
     "title": "Politaktiv Requirements",
     "plugins": ["piwik",
         "expandable-chapters",
